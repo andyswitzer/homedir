@@ -1,9 +1,9 @@
 [github]
-	user = SteveMarshall
+	user = andyswitzer
 	token = REPLACE_ME_WITH_TOKEN
 [user]
-	email = steve@nascentguruism.com
-	name = Steve Marshall
+	email = andyswitzer@gmail.com
+	name = Andy Switzer
 [color]
 	branch = auto
 	diff = auto
